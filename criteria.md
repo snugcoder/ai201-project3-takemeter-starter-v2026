@@ -54,11 +54,11 @@ whether you hit them:
 ## 1.
 
 <!-- Your criterion. It must name a number. -->
-
+Accuracy must be at least 0.75
 
 
 **Why this target:**
-
+Three of my four types have distinct vocabulary, so I expect most posts to be separable
 
 
 ---
@@ -66,11 +66,11 @@ whether you hit them:
 ## 2.
 
 <!-- Your criterion. -->
-
+For public interactions, labels may be less accurate. Accuracy must be at least 0.40
 
 
 **Why this target:**
-
+The label for public interactions is allowed to be much worse, because there are times where a friend/family interaction will intersect with public interactions. 
 
 
 ---
@@ -78,11 +78,11 @@ whether you hit them:
 ## 3.
 
 <!-- Your criterion. -->
-
+Among predictions where the model’s top probability is ≥ 0.80, at least 85% are correct, and those cover at least 40% of test posts.
 
 
 **Why this target:**
-
+A confident prediction is important here to understand what kind of take is being derived from each label. With improper label, it will hard to get sentiment from the specific type of post make to R/AITA. 
 
 
 ---

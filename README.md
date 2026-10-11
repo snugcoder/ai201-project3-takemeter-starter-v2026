@@ -23,6 +23,22 @@
 
 ---
 
+CPU Details: 
+device: cpu  (CPU)
+torch:  2.2.2
+
+Candidate Distinctions
+- Each post starts with AITAH (am i the a^hole) or WIBTAH (would I be the a^hole) before providing a giving a description of a personal issue that the author needs judgement on.
+- Then commentors either put NTA or YTA to indicate whether or not they take the side of the author in a personal issue
+- Commentors on this subreddit genuinely put thought into their responses and try to help the author
+- There are four types of comments to the posts: Judgement (NTA/YTA), Reactions, Clarification questions to the Author for Clariification, Encouragement to the Author
+- There are 4 types of posts: 
+     - Family and Friend Disputes: authors need to see if they are in the right in a dispute over morals, habits, behaviours, 
+     - Public Interactions: authors ask the subreddit if they are right in how they interacted with people in a public setting (i.e: buyer wanted a full refund even though I explained that he couldn't have one), 
+     - Work Disputes: authors ask for subredditors to judge a situation at work, 
+     - Romantic Relationship Disputes: authors ask for subredditors to judge quirks, habits or behaviours that their partners may have and their response to checking their partners.
+
+     - T
 <!-- ─────────────────────────────────────────────────────────────────────────
      HOW TO USE THIS FILE
 
