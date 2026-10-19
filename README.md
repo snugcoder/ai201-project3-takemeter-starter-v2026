@@ -38,7 +38,11 @@ Candidate Distinctions
      - Work Disputes: authors ask for subredditors to judge a situation at work, 
      - Romantic Relationship Disputes: authors ask for subredditors to judge quirks, habits or behaviours that their partners may have and their response to checking their partners.
 
-     - T
+     - Hypothetical 
+     - Confrontational
+     - Serious
+     - Lighthearted
+     
 <!-- ─────────────────────────────────────────────────────────────────────────
      HOW TO USE THIS FILE
 
